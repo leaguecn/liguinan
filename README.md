@@ -1,16 +1,16 @@
 ## Personal Information
 
 From China, Guangxi Province.
-\nA graduated student study on School of Enviroment Science and Spatial Informatics, China University Minning Technology.
-\nAddress: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
+A graduated student study on School of Enviroment Science and Spatial Informatics, China University Minning Technology.
+Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
 
 ---------------------------------------
 
 ### Education Experience
 
-\n2009~2012, Luchuan Senoir High School
-\n2012~2016, Sun-Yat Sen University(SYSU)
-\n2016~2019, China University Minning Technology
+2009-2012, Luchuan Senoir High School
+2012-2016, Sun-Yat Sen University(SYSU)
+2016-2019, China University Minning Technology
 
 ---------------------------------------
 
