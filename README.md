@@ -3,7 +3,7 @@
 <p>现在中国矿业大学 环境与测绘学院攻读硕士研究生学位。</p>
 <p>通信地址：中国 江苏省徐州市 大学路一号。</p>
 <p>From China, Guangxi Province.</p>
-<p>A graduated student study on School of Enviroment Science and Spatial Informatics, China University Minning Technology.</p>
+<p>A graduated student study on School of Enviroment Science and Spatial Informatics, China University Mining Technology.</p>
 <p>Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China</p>
 
 ---------------------------------------
