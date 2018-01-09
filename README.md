@@ -33,6 +33,13 @@
 
 
 --------------------------------------------
+### 口头禅/Slogan
+<p>我只是个跑龙套的。</p>
+<p>I didn't do much, just a bit of running around.</p>
+
+
+--------------------------------------------
+
 <p>这是Github上的个人简介界面，感谢您的来访！</p>
 <p>This is a profile thread on github. Thanks for your visiting!</p>
 
