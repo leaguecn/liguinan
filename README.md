@@ -43,3 +43,20 @@
 <p>这是Github上的个人简介界面，感谢您的来访！</p>
 <p>This is a profile thread on github. Thanks for your visiting!</p>
 
+
+--------------------------------------------
+
+### 其他链接/other links
+
+**1.高德地图定制版-AMap(EN&CN-zh)
+* [coding.net port](http://leaguecn.coding.me/amaplite/)
+* [github.net port](https://leaguecn.github.io/amaplite/)
+
+
+**2.谷歌地图定制版（CN）
+[github.net port](https://leaguecn.github.io/amaplite/)
+
+
+
+
+
