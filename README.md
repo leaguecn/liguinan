@@ -46,7 +46,7 @@
 
 --------------------------------------------
 
-### 其他链接/other links
+### 其他链接/Other links
 
 **1.高德地图定制版-AMap(EN&CN-zh)
 * [coding.net port](http://leaguecn.coding.me/amaplite/)
