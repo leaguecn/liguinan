@@ -59,13 +59,28 @@ This is a profile thread on github. Thanks for your visiting!
 
 ### 其他链接/Other links
 
-**1.高德地图定制版-AMap(EN&CN-zh)
+**1. 高德地图定制版-AMap(EN&CN-zh)
 * [coding.net port](http://leaguecn.coding.me/amaplite/)
 * [github.net port](https://leaguecn.github.io/amaplite/)
 
 
-**2.谷歌地图定制版（CN）
-[github.net port](https://leaguecn.github.io/amaplite/)
+**2. 谷歌地图定制版（CN）
+* [github.net port](https://leaguecn.github.io/gmap/)
+
+
+**3. Android Tools
+* [supersu](http://www.supersu.com/download)
+* [xposed](http://dl-xda.xposed.info/framework)
+* [twrp](https://twrp.me/Devices)
+* [apktool](https://ibotpeaches.github.io/Apktool)
+* [baksmali/smali](https://bitbucket.org/JesusFreke/smali/downloads)
+* [LineageOS(CN-CAS)](http://mirrors.ustc.edu.cn/lineageos/)
+* [LineageOS(CN-TH)](https://mirrors.tuna.tsinghua.edu.cn/lineage-rom/)
+* [Android boot/recovery](https://forum.xda-developers.com/showthread.php?t=2073775)
+* [img2sdat](https://github.com/xpirt/sdat2img)
+* [sdat2img](https://github.com/xpirt/img2sdat)
+
+
 
 
 
