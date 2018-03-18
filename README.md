@@ -1,32 +1,24 @@
 ### 个人信息/Personal Information
-[//]:来自中国 广西     
-[//]:现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。 
+来自中国 广西     
+现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。 
 
 通信地址：中国 江苏省徐州市 大学路1号。  
 
-[^_^]:
 From China, Guangxi Province.      
-[^_^]:
 A graduated student study on School of Enviroment Science and Spatial Informatics, China University Mining Technology.     
 Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
 
 ---------------------------------------
-[^_^]:
 ### 教育经历/Education Experience
-[^_^]:
 2009-2012，陆川中学  
-[^_^]:
 2012-2016，中山大学  
-[^_^]:
 2016-2019，中国矿业大学
-[^_^]:
+
 2009-2012, Luchuan Senoir High School  
-[^_^]:
 2012-2016, Sun-Yat Sen University(SYSU)  
-[^_^]:
 2016-2019, China University Minning Technology
 
-[^_^]:---------------------------------------
+---------------------------------------
 
 
 ### 工作经验/Working Experience
