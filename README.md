@@ -1,8 +1,6 @@
 ### 个人信息/Personal Information
-[^_^]:
-来自中国 广西     
-[^_^]:
-现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。 
+[^_^]:来自中国 广西     
+[^_^]:现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。 
 
 通信地址：中国 江苏省徐州市 大学路1号。  
 
