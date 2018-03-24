@@ -55,6 +55,7 @@ Stay hungry, stay foolish.
 
 **2. Bing Map Lite
 * [github.net port](https://leaguecn.github.io/bingmap/)
+* [coding.net port](http://leaguecn.coding.me/bingmap)
 
 **3. 高德地图定制版-AMap(EN&CN-zh)
 * [coding.net port](http://leaguecn.coding.me/amaplite/)
