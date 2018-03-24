@@ -51,7 +51,7 @@ Stay hungry, stay foolish.
 
 **1. 谷歌地图定制版（CN）
 * [github.net port](https://leaguecn.github.io/gmap/)
-* lite[gitee.net port](http://leaguecn.gitee.io/map/)
+* lite [gitee.net port](http://leaguecn.gitee.io/map/)
 
 **2. Bing Map Lite
 * [github.net port](https://leaguecn.github.io/bingmap/)
