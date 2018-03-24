@@ -49,16 +49,17 @@ Stay hungry, stay foolish.
 
 ### 其他链接/Other links
 
-**1. 高德地图定制版-AMap(EN&CN-zh)
-* [coding.net port](http://leaguecn.coding.me/amaplite/)
-* [github.net port](https://leaguecn.github.io/amaplite/)
-
-
-**2. 谷歌地图定制版（CN）
+**1. 谷歌地图定制版（CN）
 * [github.net port](https://leaguecn.github.io/gmap/)
 
+**2. Bing Map Lite
+* [github.net port](https://leaguecn.github.io/bingmap/)
 
-**3. Android Tools
+**3. 高德地图定制版-AMap(EN&CN-zh)
+* [coding.net port](http://leaguecn.coding.me/amaplite/)
+
+
+**4. Android Tools
 * [supersu](http://www.supersu.com/download)
 * [xposed](http://dl-xda.xposed.info/framework)
 * [twrp](https://twrp.me/Devices)
