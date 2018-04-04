@@ -21,8 +21,13 @@ Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
 -->
 ---------------------------------------
 ### 专业技能/Professional skills
-* Java(Android app dev)    
-* C++    
+* Android软件开发    
+* 计算机视觉图像处理    
+* 地理信息系统    
+
+* Java for Android app developement     
+* C++ for computer vision image processing
+* GIS
 
 ---------------------------------------
 ### 工作经验/Working Experience
