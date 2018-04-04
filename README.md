@@ -8,17 +8,17 @@ From China, Guangxi Province.
 A graduated student study on School of Enviroment Science and Spatial Informatics, China University Mining Technology.     
 Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
 
+<!--
 ---------------------------------------
 ### 教育经历/Education Experience
 2009-2012，陆川中学  
 2012-2016，中山大学  
 2016-2019，中国矿业大学
-
-2009-2012, Luchuan Senoir High School  
+2009-2012, Luchuan Senoir High School  
 2012-2016, Sun-Yat Sen University(SYSU)  
 2016-2019, China University Minning Technology
-
 ---------------------------------------
+-->
 
 
 ### 工作经验/Working Experience
