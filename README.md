@@ -19,6 +19,10 @@ Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
 2016-2019, China University Minning Technology
 ---------------------------------------
 -->
+---------------------------------------
+### 专业技能/Professional skills
+.Java(Android app dev)
+.C++
 
 
 ### 工作经验/Working Experience
