@@ -1,8 +1,7 @@
 ### 个人信息/Personal Information
 来自中国 广西     
-现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。 
-
-通信地址：中国 江苏省徐州市 大学路1号。  
+现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。     
+通信地址：中国 江苏省徐州市 大学路1号。      
 
 From China, Guangxi Province.      
 A graduated student study on School of Enviroment Science and Spatial Informatics, China University Mining Technology.     
@@ -21,9 +20,11 @@ Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
 -->
 ---------------------------------------
 ### 专业技能/Professional skills
+
 * Android软件开发    
 * 计算机视觉图像处理    
 * 地理信息系统    
+
 
 * Java for Android app developement     
 * C++ for computer vision image processing
@@ -58,15 +59,15 @@ Stay hungry, stay foolish.
 
 ### 其他链接/Other links
 
-**1. 谷歌地图定制版（CN）
+**1. [谷歌地图定制版(GoogleMap CN)](https://maps.google.com)
 * [github.net port](https://leaguecn.github.io/gmap/)
 * lite [gitee.net port](http://leaguecn.gitee.io/map/)
 
-**2. Bing Map Lite
+**2. [必应地图(Bing Map Lite)](https://www.bing.com/maps)
 * [github.net port](https://leaguecn.github.io/bingmap/)
 * [coding.net port](http://leaguecn.coding.me/bingmap)
 
-**3. 高德地图定制版-AMap(EN&CN-zh)
+**3. [高德地图定制版(高德地图 EN&CN-zh)](https://ditu.amap.com)
 * [coding.net port](http://leaguecn.coding.me/amaplite/)
 
 
