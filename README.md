@@ -61,6 +61,16 @@ Stay hungry, stay foolish.
 
 ### 其他链接/Other links
 
+如果你身处中国大陆，限于中国国家防火墙，下面将是很好的科研帮助网站：    
+If you are in Chinese mainland, limited to GFW, here you go:    
+**0. Acedemic-Hub
+* [MicroSoft Acedemic website](https://academic.microsoft.com/)
+* [Google Searching & Scholar](http://ac.scmor.com)
+* [Sci-Hub TW version](http://sci-hub.tw)
+
+*************************************************************
+
+
 **1. [谷歌地图定制版(GoogleMap CN)](https://maps.google.com)
 * [github.net port](https://leaguecn.github.io/gmap/)
 * lite [gitee.net port](http://leaguecn.gitee.io/map/)
