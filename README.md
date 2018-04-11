@@ -82,7 +82,7 @@ If you are in Chinese mainland, limited to GFW, here you go:
 **3. [高德地图定制版(高德地图 EN&CN-zh)](https://ditu.amap.com)
 * [coding.net port](http://leaguecn.coding.me/amaplite/)
 
-
+<!--
 **4. Android Tools
 * [supersu](http://www.supersu.com/download)
 * [xposed](http://dl-xda.xposed.info/framework)
@@ -94,7 +94,7 @@ If you are in Chinese mainland, limited to GFW, here you go:
 * [Android boot/recovery](https://forum.xda-developers.com/showthread.php?t=2073775)
 * [img2sdat](https://github.com/xpirt/sdat2img)
 * [sdat2img](https://github.com/xpirt/img2sdat)
-
+-->
 --------------------------------------------
 
 这是Github上的个人简介界面，感谢您的来访！
