@@ -4,7 +4,7 @@
 通信地址：中国 江苏省徐州市 大学路1号。      
 
 From China, Guangxi Province.      
-A graduated student study on School of Enviroment Science and Spatial Informatics, China University Mining Technology.     
+A graduate student study on School of Enviroment Science and Spatial Informatics, China University Mining Technology.     
 Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
 
 <!--
