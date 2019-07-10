@@ -1,11 +1,19 @@
 ### 个人信息/Personal Information
-来自中国 广西     
-现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。     
-通信地址：中国 江苏省徐州市 大学路1号。      
+来自中国 广西陆川，
+<!--现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。
+通信地址：中国 江苏省徐州市 大学路1号。--> 
+现就职于佛山市测绘地理信息研究院。    
+通讯地址：中国 广东省佛山市禅城区汾江南路惠景二街19号，佛山市测绘地理信息研究院
 
+
+<!--
 From China, Guangxi Province.      
 A graduate student study on School of Enviroment Science and Spatial Informatics, China University Mining Technology.     
-Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China
+Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China-->
+
+From China, Luchuan town of Guangxi province.      
+Now work on Foshan Institute of Surveying and Mapping Geographic Information.     
+Address: No. 19, Huijing 2nd Street, Fenjiang South Road, Chancheng District, Foshan City, 528200, Guangdong Province, P.R.China
 
 <!--
 ---------------------------------------
