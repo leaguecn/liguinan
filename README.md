@@ -3,7 +3,10 @@
 现就职于佛山市测绘地理信息研究院。    
 <!--现在[中国矿业大学](http://www.cumt.edu.cn) [环境与测绘学院](http://cesi.cumt.edu.cn)攻读[硕士研究生](http://yjsb.cumt.edu.cn)学位。
 通信地址：中国 江苏省徐州市 大学路1号。--> 
-通讯地址：中国 广东省佛山市禅城区汾江南路惠景二街19号，佛山市测绘地理信息研究院
+<!--通讯地址：中国 广东省佛山市禅城区汾江南路惠景二街19号，佛山市测绘地理信息研究。-->
+
+广东省佛山市禅城区，52820
+
 
 
 <!--
@@ -13,7 +16,10 @@ Address: No.1, University Road, Xuzhou, Jiangsu, 221116, P.R.China-->
 
 From China, Luchuan town of Guangxi province.      
 Now work on Foshan Institute of Surveying and Mapping Geographic Information.     
-Address: No. 19, Huijing 2nd Street, Fenjiang South Road, Chancheng District, Foshan City, 528200, Guangdong Province, P.R.China
+<!--Address: No. 19, Huijing 2nd Street, Fenjiang South Road, Chancheng District, Foshan City, 528200, Guangdong Province, P.R.China-->
+
+Chancheng District, Foshan City, 528200, Guangdong Province, P.R.China.
+
 
 <!--
 ---------------------------------------
@@ -85,10 +91,18 @@ If you are in Chinese mainland, limited to GFW, here you go for acedemic researc
 
 **2. [必应地图(Bing Map Lite)](https://www.bing.com/maps)
 * [github.net port](https://leaguecn.github.io/bingmap/)
-* [coding.net port](http://leaguecn.coding.me/bingmap)
+* [coding.net port](http://1fyz45.coding-pages.com/)
 
 **3. [高德地图定制版(高德地图 EN&CN-zh)](https://ditu.amap.com)
-* [coding.net port](http://leaguecn.coding.me/amaplite/)
+* [coding.net port](http://wjsz40.coding-pages.com/)
+
+
+
+**4.[E-books Shop](http://gen.lib.rus.ec/)
+
+* [Jiumo](https://www.jiumodiary.com/)
+
+
 
 <!--
 **4. Android Tools
