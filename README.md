@@ -104,6 +104,8 @@ If you are in Chinese mainland, limited to GFW, here you go for acedemic researc
 
 
 
+**5.[Tools](https://leaguecn.github.io/tools/)
+
 <!--
 **4. Android Tools
 * [supersu](http://www.supersu.com/download)
@@ -121,7 +123,8 @@ If you are in Chinese mainland, limited to GFW, here you go for acedemic researc
 
 这是Github上的个人简介界面，感谢您的来访！
 
-
-<b>Update on 2020/06<b>
-
 This is a profile thread on github. Thanks for your visiting!
+
+--------------------------------------------
+
+**Update on 2020/06**
