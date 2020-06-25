@@ -127,4 +127,4 @@ This is a profile thread on github. Thanks for your visiting!
 
 --------------------------------------------
 
-**Update on 2020/06**
+**Update on 2020.06**
